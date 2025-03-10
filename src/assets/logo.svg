@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#9333EA" />
+  <circle cx="50" cy="50" r="30" fill="#FFFFFF" />
+  <circle cx="50" cy="50" r="5" fill="#9333EA" />
+
+  <!-- Music note stem -->
+  <rect x="55" y="30" width="5" height="25" fill="#FFFFFF" rx="2" />
+  
+  <!-- Music note head -->
+  <ellipse cx="60" cy="55" rx="10" ry="8" fill="#FFFFFF" transform="rotate(-20, 60, 55)" />
+  
+  <!-- Decorative circles -->
+  <circle cx="30" cy="30" r="6" fill="#F4EBFF" opacity="0.6" />
+  <circle cx="70" cy="30" r="4" fill="#F4EBFF" opacity="0.8" />
+  <circle cx="75" cy="65" r="5" fill="#F4EBFF" opacity="0.7" />
+</svg>
